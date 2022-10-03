@@ -8,5 +8,5 @@
     My first microgame proposed by the Unity documentation.
   </p>
   
-  <img src="https://github.com/FedeCana00/The-floor-is-lava/blob/master/preview.png" alt="Preview" />
+  <img src="https://github.com/FedeCana00/The-floor-is-lava/blob/main/preview.png" alt="Preview" />
 </div>
